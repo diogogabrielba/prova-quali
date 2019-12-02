@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: Carvalheiro
+Specification-Title: SISHL_plus
+Created-By: Apache Maven
+Specification-Version: 0.0.0.1
+Main-Class: br.com.prova.prova.view.Autorizador
+Archiver-Version: Plexus Archiver

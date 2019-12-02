@@ -1,0 +1,11 @@
+br\com\prova\manager\interfaces\Crud.class
+br\com\prova\prova\view\Autorizador.class
+br\com\prova\manager\abstracts\AbstractPO.class
+br\com\prova\manager\connection\HibernateConnection.class
+br\com\prova\prova\teste\TestaBackendAutorizacao.class
+br\com\prova\manager\exceptions\BackendException.class
+br\com\prova\manager\utilidades\Utilidades.class
+br\com\prova\prova\model\AutorizacaoPO.class
+br\com\prova\prova\dao\AutorizacaoDAO.class
+br\com\prova\prova\controller\AutorizacaoFACADE.class
+br\com\prova\prova\model\AutorizacaoSERVICE.class

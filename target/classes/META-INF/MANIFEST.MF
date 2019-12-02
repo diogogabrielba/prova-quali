@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Autorizador
+Implementation-Version: 1.0.0.0
+Built-By: Carvalheiro
+Specification-Title: SISHL_plus
+Implementation-Vendor-Id: br.com.prova
+Build-Jdk: 1.8.0_231
+Specification-Version: 0.0.0.1
+Created-By: Apache Maven
+Main-Class: br.com.prova.prova.view.Autorizador
+
