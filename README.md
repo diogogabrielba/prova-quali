@@ -22,13 +22,17 @@ OBS: O arquivo Autorizador.jar está dentro da pasta target, Para fazer o downlo
 e no botão Download.
 
 1 - Coloque o Autorizador.jar em uma pasta de fácil acesso, no meu caso criei uma pasta chamada prova dentro de C:
+
 Exemplo: C:\prova
 
 2 - Abra o cmd, caminhe até a pasta onde o arquivo .jar se encontra.
+
 Exemplo C:\prova>
 
 3 - Para executar o jar e cadastrar uma nova autorização digite: [ CADASTRAR ] [ PROCEDIMENTO ] [ IDADE ] [ SEXO ] [ PERMITIDO ]
+
 Exemplo: C:\prova>java -jar Autorizador.jar Cadastrar 1234 10 M SIM
 
 4- Para executar o jar e Validar uma autorizacao digite: [ VALIDAR ] [ PROCEDIMENTO ] [ IDADE ] [ SEXO ] 
+
 Exemplo: C:\prova>java -jar Autorizador.jar Validar 1234 10 M 
