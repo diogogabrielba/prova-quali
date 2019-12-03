@@ -14,7 +14,7 @@ usei o MySql Workbench Versão 6.3, link para download: https://dev.mysql.com/do
 
 6 - Clique no botão Apply
 
-------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 Executando o jar:
 
 
@@ -36,3 +36,11 @@ Exemplo: C:\prova>java -jar Autorizador.jar Cadastrar 1234 10 M SIM
 4- Para executar o jar e Validar uma autorizacao digite: [ VALIDAR ] [ PROCEDIMENTO ] [ IDADE ] [ SEXO ] 
 
 Exemplo: C:\prova>java -jar Autorizador.jar Validar 1234 10 M 
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+- Criar a estrutura de banco de dados proposta para o problema:
+
+A estrutura é criada com o Hibernate automaticamente a partir de mapeamentos feito na classe AutorizacaoPO
+
+para a vizualização da tabela basta fazer uma SELECT na tabela autorizacoes que será criada no banco.
